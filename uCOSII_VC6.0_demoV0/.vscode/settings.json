@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "ucos_ii.h": "c",
+        "INCLUDES.H": "cpp",
+        "type_traits": "c",
+        "os_cpu.h": "c",
+        "OS_CFG.H": "cpp"
+    }
+}

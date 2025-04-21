@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ucos_vc - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\rx\AppData\Local\Temp\RSP8965.tmp" with contents
+[
+/nologo /ML /W3 /Gm /GX /ZI /I "UCOS/CPU" /I "UCOS/SOURCE" /I "user" /I "UCOS/CONFIG" /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /FR"OUTPUT/Debug/" /Fp"OUTPUT/Debug/ucos_vc.pch" /YX /Fo"OUTPUT/Debug/" /Fd"OUTPUT/Debug/" /FD /I /GZ /c 
+"F:\²Ù×÷ÏµÍ³\ucosII_vc6.0\uCOSII_VC6.0_demoV0\UCOS\SOURCE\os_flag.c"
+]
+Creating command line "cl.exe @C:\Users\rx\AppData\Local\Temp\RSP8965.tmp" 
+<h3>Output Window</h3>
+Compiling...
+os_flag.c
+
+
+
+<h3>Results</h3>
+os_flag.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
